@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
     max-width:100%;
-    /* border:1px solid grey; */
+    border:1px solid grey;
 }
 /*General Styles*/
 html{
@@ -44,7 +44,6 @@ a{
 	width: auto;
 	font-size: 1.3rem;
 	display: block;
-}
 }
 i{
     font-size: 5rem;
@@ -141,7 +140,7 @@ footer div.Contact{
 /*Tablet*/
 @media(max-width:800px){
 	.gallery h3{
-		font-size:1.5rem;
+		font-size:1.8rem;
 	}
 }
 
